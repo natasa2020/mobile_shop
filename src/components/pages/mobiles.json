@@ -1,0 +1,101 @@
+{
+    "mobile_phones": [
+      {
+        "id": 1,
+        "title": "Samsung Galaxy S21",
+        "price": 700,
+        "description": "Introducing the Samsung Galaxy S21. Experience the power of the latest technology in the palm of your hand.",
+        "category": "mobile",
+        "image": "https://api.tehnomanija.rs/medias/ch-galaxy-s21-fe-g990-432301-sm-g990blvfeuc-533284763.png?context=bWFzdGVyfGltYWdlc3w2OTY2MzN8aW1hZ2UvcG5nfGhkOS9oOTMvOTQ3MDE4Mjk4MTY2Mi9jaC1nYWxheHktczIxLWZlLWc5OTAtNDMyMzAxLXNtLWc5OTBibHZmZXVjLTUzMzI4NDc2My5wbmd8YTczMmY3M2M2NmU2OWVmNWI4NTkyOWFmNDMxMjUyMDA0ZTczN2ZjNzA4ODE1YTEzNzk3NmY4Nzc0MDM1MDIyZA"
+      },
+      {
+        "id": 2,
+        "title": "Apple iPhone 12 Pro",
+        "price": 1000,
+        "description": "The iPhone 12 Pro. A transformative triple-camera system that adds tons of capability without complexity.",
+        "category": "mobile",
+        "image": "https://www.lajtnet.rs/chest/pimg/1607517272-iphone_12_pro_max_graphite_pdp_image_position-2__en-us_5.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Google Pixel 5",
+        "price": 699,
+        "description": "Capture brilliant photos and videos with a smart camera that can adjust to any light.",
+        "category": "mobile",
+        "image": "https://m.media-amazon.com/images/I/61wJv5qlO1L._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "OnePlus 9 Pro",
+        "price": 899,
+        "description": "The OnePlus 9 Pro. A phone built with uncompromising quality, speed, and performance.",
+        "category": "mobile",
+        "image": "https://www.mytrendyphone.rs/images/Puro-0-3-Nude-TPU-Case-OnePlus-9-Pro-transparent-8033830302220-10062021-01-p.webp"
+      },
+      {
+        "id": 5,
+        "title": "Xiaomi Mi 11",
+        "price": 599,
+        "description": "The Xiaomi Mi 11. Discover the fastest and smoothest smartphone experience yet.",
+        "category": "mobile",
+        "image": "https://mi-srbija.rs/storage/product/images/4f/9b/redmi-note-11-pro-5g-701-701-3369.png"
+      },
+      {
+        "id": 6,
+        "title": "Iphone 14 Pro",
+        "price": 499,
+        "description": "The Iphone 14 Pro. An elegant phone with a sleek design and impressive features.",
+        "category": "mobile",
+        "image": "https://api.tehnomanija.rs/medias/MQ9R3SX-A-1-jpeg-580-conversion-media-format?context=bWFzdGVyfGltYWdlc3w5MjAxNHxpbWFnZS9qcGVnfGhjMy9oOTIvOTQ2NTA1NzkwMjYyMi9NUTlSM1NYL0EtMV9qcGVnLTU4MC1jb252ZXJzaW9uLW1lZGlhLWZvcm1hdHwxNGE1NjgxMmNlYmZkOTlhY2NjNjlhNWEyOTQzYjNkMjEzMTJjY2E0NzRmOWRlYWQwYzMwYzFjZDA0NzdhMjA5"
+      },
+      {
+        "id": 7,
+        "title": "Motorola Moto G Power",
+        "price": 250,
+        "description": "The Motorola Moto G Power. Get up to three days of battery life on a single charge.",
+        "category": "mobile",
+        "image": "https://www.gsmarena.com.bd/images/products/Motorola-Moto-G-Power-2021.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Samsung Z Fold 3",
+        
+        "price": 1099,
+        "description": "The Samsung Z Fold 3. Dive into an immersive visual experience with a stunning display and powerful performance.",
+        "category": "mobile",
+        "image": "https://m.media-amazon.com/images/I/511Y7+L9nZL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Realme GT",
+        "price": 399,
+        "description": "The Realme GT. Unleash the power with flagship-level performance and an immersive display.",
+        "category": "mobile",
+        "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/7/177039_2020_9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Huawei P40 Pro",
+        "price": 799,
+        "description": "The Huawei P40 Pro. Embrace the power of advanced camera technology and innovative design.",
+        "category": "mobile",
+        "image": "https://fdn2.mobgsm.com/vv/pics/huawei/huawei-p40-pro-01.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Iphone 12 mini",
+        "price": 799,
+        "description": "The Huawei P40 Pro. Embrace the power of advanced camera technology and innovative design.",
+        "category": "mobile",
+        "image": "https://www.lajtnet.rs/chest/pimg/1607515917-iphone_12_mini_blue_pdp_image_position-2__en-us_8.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Honor X8",
+        "price": 799,
+        "description": "The Huawei P40 Pro. Embrace the power of advanced camera technology and innovative design.",
+        "category": "mobile",
+        "image": "https://img.gigatron.rs/img/products/large/image6283b0893cbea.png"
+      }
+   ]
+}
